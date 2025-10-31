@@ -1,1 +1,0 @@
-# Data Analytic with python and jupyter notebook editor
